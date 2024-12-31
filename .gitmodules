@@ -1,0 +1,2 @@
+[submodule "3rd-party/js-libp2p-noise"]
+	branch = master
