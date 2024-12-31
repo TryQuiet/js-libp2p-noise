@@ -155,9 +155,6 @@
     "release": "aegir release"
   },
   "dependencies": {
-    "@stablelib/chacha-drbg": "2.0.0",
-    "@stablelib/chacha20poly1305": "2.0.0",
-    "@stablelib/sha256": "2.0.0",
     "@libp2p/crypto": "^5.0.0",
     "@libp2p/interface": "^2.0.0",
     "@libp2p/peer-id": "^5.0.0",
